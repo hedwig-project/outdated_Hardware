@@ -10,8 +10,8 @@ int loop100count; //Variáveis de Loop
 unsigned long prevMillis = 0;
 
 #include <ESP8266WiFi.h>
-String essid = "YTD960495veredas";
-String epass = "784257hue031";
+String essid = "";   //Put here your ssid
+String epass = "";   //and your WiFi password
 
 #include <BlynkSimpleEsp8266.h>
 String blynkAuth = "1e300153262c41b99fb697cb39c17575"; //Ver no App
