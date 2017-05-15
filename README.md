@@ -11,7 +11,7 @@ http://blog.filipeflop.com/wireless/programar-nodemcu-com-ide-arduino.html
 
 Link for ESP8266 library:http://download.igrr.me/versions/2.3.0/package_esp8266com_index.json
 
-## Blynk
+### Blynk
 Getting Started Guide -> http://www.blynk.cc/getting-started
 
 Documentation -> http://docs.blynk.cc/
@@ -25,7 +25,7 @@ Latest Blynk server -> https://github.com/blynkkk/blynk-server/releases/download
 
 Download App from Google Play
 
-## Get Historical Data
+### Get Historical Data
 LDR: http://blynk-cloud.com/token/data/V2
 
 Umidade: http://blynk-cloud.com/token/data/V3
@@ -37,7 +37,7 @@ Presença: http://blynk-cloud.com/token/data/V5
 
 token: Receive in your email.
 
-# MQTT Arduino Library Test (PubSub Client)
+## MQTT Arduino Library Test (PubSub Client)
 API Documentation: http://pubsubclient.knolleary.net/api.html
 
 
