@@ -41,12 +41,12 @@ token: Receive in your email.
 ## For local test
 Simply download web interface files and open index.html in your favorite browser.
 
-## For LAN test:
+## For LAN test
 Upload the file MQTTcomESP8266_v004 to your Wemos R1 D2.
 Save all web interface files to your Python folder in your computer (download and install from https://www.python.org/)
 Execute in cmd: "python -m SimpleHTTPServer 8002" (you can change the port to 8080, 8000 or whatever you may need)
 
-## For Internet test:
+## For Internet test
 Edit your router´s configuration to forward port 8002 (or the one you selected). For TP LINK, see http://www.tp-link.com.br/faq-72.html
 Get to know your global IP address (for example, from https://whatismyip.com.br/)
 Now, you can open the web interface which uses MQTT from anywhere by http://yourip:8002/
