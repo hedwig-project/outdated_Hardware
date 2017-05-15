@@ -37,7 +37,9 @@ Presença: http://blynk-cloud.com/token/data/V5
 
 token: Receive in your email.
 
-# MQTT Arduino Library Test
+# MQTT Arduino Library Test (PubSub Client)
+API Documentation: http://pubsubclient.knolleary.net/api.html
+
 ## For local test
 Simply download web interface files and open index.html in your favorite browser.
 
